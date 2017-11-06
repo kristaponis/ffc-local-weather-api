@@ -1,0 +1,46 @@
+@font-face {
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/font/weathericons-regular-webfont.eot");
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/font/weathericons-regular-webfont.svg");
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/font/weathericons-regular-webfont.ttf");
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/font/weathericons-regular-webfont.woff");
+}
+  
+body {
+    background-color: #2E98D6;
+    color: #F6F6F6;
+}
+  
+.content {
+    margin: 50px auto;
+    width: 500px;
+    height: 350px;
+    background-color: #62afe4;
+    border-radius: 10px;
+}
+  
+.header {
+    padding: 30px;
+}
+  
+h2 {
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 50px;
+}
+  
+ul {
+    margin: 0;
+    padding: 0;
+}
+  
+li {
+    padding-bottom: 15px;
+    font-size: 20px;
+    list-style-type: none;
+}
+  
+.btn {
+    background-color: #62afe4;
+    border: 1px #F6F6F6 solid;
+    color: #F6F6F6;
+}
